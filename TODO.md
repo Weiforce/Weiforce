@@ -1,6 +1,11 @@
-## 分析
+## Analysis
 
-- VSCode 插件编写熟悉
-- VSCode 调试
-- VSCode 插件代码分析
-- ...
+- Familiar with vscode plug-in writing
+- Vscode debugging
+- Vscode plug-in code analysis
+
+## Structure
+
+- weiforce : editor core
+- vscode : plugin system
+- Helix : editor ui
