@@ -2,7 +2,9 @@
 
 - Familiar with vscode plug-in writing
 - Vscode debugging
-- Vscode plug-in code analysis
+- Vscode UI plugin code analysis
+- Vscode Workspace Plugin code analysis
+- 
 
 ## Structure
 
